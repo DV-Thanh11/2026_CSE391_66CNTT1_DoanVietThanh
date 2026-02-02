@@ -10,12 +10,12 @@ File chạy: Xem ex3.html
 File CSS: Xem ex3.css
 Ảnh kết quả: Xem ảnh minh họa
 Mô tả: Tạo bảng điểm với các ô gộp dòng/cột.
-🔹 ex 4: Form nhập liệu
+🔹 ex4: Form nhập liệu
 File chạy: Xem ex4.html
 File CSS: Xem ex4.css
 Ảnh kết quả: Xem ảnh minh họa
 Mô tả: Form thông tin nhân viên.
-🔹 Task 5: Quản lý nhân sự
+🔹 ex5: Quản lý nhân sự
 Màn hình danh sách: Xem ex5.html
 Ảnh minh họa: Xem ảnh ex5.png
 Màn hình thêm mới: Xem ex5-2.html
