@@ -1,0 +1,12 @@
+.header{
+    color:brown
+}
+.course-detail{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.detail-img img{
+    width:calc(33% - 20px);
+    height: auto;
+}
