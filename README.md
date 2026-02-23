@@ -25,4 +25,4 @@
 - **Mô tả:** Xây dựng giao diện.
 ---
 # BÀI TẬP THỰC HÀNH SỐ 02
-- **Phiếu học tập:** [Xem Phiếu học tập CSS - BTTH02 - K66.docx](Practice2/PhieuBaoCao/Phiếu học tập CSS - BTTH02 - K66.docx)
+- **Phiếu học tập:** [Xem Phiếu học tập CSS - BTTH02 - K66.docx](Practice2/PhieuBaoCao/Phiếu%20học%20tập%20CSS%20-%20BTTH02%20-%20K66.docx)
